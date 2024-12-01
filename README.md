@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tom-payne-dev
-- 👀 I’m interested in Web Dev, Machine Learning
-- 🌱 I’m currently learning Full Stack Web Dev
+- 👀 I’m interested in Maths, Machine Learning
 - 📫 Reach me through instagram - @tpayn21
-- 📜 Studying Computer Science at Solihull School
+- 📜 Studying Computer Science / Physics / Maths / Further Maths at Solihull School
 
 <!---
 tom-payne-dev/tom-payne-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
